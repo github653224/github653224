@@ -1,20 +1,33 @@
-### 欢迎来到panxueyan‘s github 👋
+<div align="center">
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=github653224&show_icons=true&theme=tokyonight">
 
-<!--
-**github653224/github653224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### Hello 👋
 
-Here are some ideas to get you started:
+  I'm **github653224**, likes to be involved in interesting projects.
 
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![snowrock.pan's GitHub stats](https://github-readme-stats.vercel.app/api?username=github653224&show_icons=true&theme=tokyonight)
+  📫 How to reach me: 944851899@qq.com
+</div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+  
+  ### 🛠️ Tech Stack
+  
+  ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=JavaScript&logoColor=white)
+  
+  ---
+
+  ![HTML5](https://img.shields.io/badge/-HTML5-192133?style=flat-square&logo=HTML5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-192133?style=flat-square&logo=CSS3&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-192133?style=flat-square&logo=Vue.js&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-192133?style=flat-square&logo=Django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/-Flask-192133?style=flat-square&logo=Flask&logoColor=white)
+  ![Spring](https://img.shields.io/badge/-Spring-192133?style=flat-square&logo=Spring&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=MySQL&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/-SQLite-192133?style=flat-square&logo=SQLite&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-192133?style=flat-square&logo=Docker&logoColor=white)
+  ![NGINX](https://img.shields.io/badge/-NGINX-192133?style=flat-square&logo=NGINX&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=Git&logoColor=white)
+</div>
