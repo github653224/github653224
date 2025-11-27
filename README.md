@@ -2,7 +2,7 @@
   <img align='right' src="https://github-readme-stats.vercel.app/api?username=github653224&show_icons=true&theme=tokyonight">
 
   ### Hello 👋
-  热爱科技，热爱技术，北漂十年程序员分享科技和技术知识，数码评测，产品体验官，AI领域大模型拾荒者。公众号/视频号/抖音头条：热爱技术的小牛
+  热爱科技，热爱技术，北漂十二年程序员分享科技和技术知识，数码评测，产品体验官，AI领域大模型拾荒者。公众号/视频号/抖音头条：热爱技术的小牛
   I'm **github653224**, likes to be involved in interesting projects.
   📫 How to reach me: 944851899@qq.com
   
