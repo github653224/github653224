@@ -7,7 +7,11 @@
   📫 How to reach me: 944851899@qq.com
 
 
-  ![GitHub stats PNG proxy](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=github653224&theme=dark&show_icons=true))
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=github653224&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=github653224">
+  <img src="https://github-readme-stats.vercel.app/api?username=github653224">
+</picture>
 
 
 </div>
