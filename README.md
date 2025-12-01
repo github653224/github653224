@@ -6,14 +6,9 @@
   I'm **github653224**, likes to be involved in interesting projects.  
   📫 How to reach me: 944851899@qq.com
 
-  <!-- Option A: (原始) 直接引用 github-readme-stats — 当前可能返回 503 -->
-  <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=github653224&show_icons=true&theme=tokyonight) -->
 
-  <!-- Option B: 推荐（已启用）—— 通过 images.weserv.nl 把 svg 代理为 PNG，通常能解决被暂停/被拦截的问题 -->
-  ![GitHub stats PNG proxy](https://images.weserv.nl/?url=github-readme-stats.vercel.app/api%3Fusername%3Dgithub653224%26show_icons%3Dtrue%26theme%3Dtokyonight)
+  ![GitHub stats PNG proxy](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=github653224&theme=dark&show_icons=true))
 
-  <!-- Option C: 备用统计卡（不同提供方） -->
-  <!-- ![profile-summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=github653224) -->
 
 </div>
 
