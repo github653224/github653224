@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
   ### Hello 👋  
@@ -39,4 +38,3 @@
   ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=Git&logoColor=white)
 
 </div>
-```
