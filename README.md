@@ -12,7 +12,7 @@
 
   ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=JavaScript&logoColor=white)
+  ![test dev](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=JavaScript&logoColor=white)
 
   ---
 
