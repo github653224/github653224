@@ -1,19 +1,13 @@
 <div align="center">
 
   ### Hello 👋  
-  热爱科技，热爱技术，北漂十二年程序员分享科技和技术知识，数码评测，产品体验官，AI领域大模型拾荒者。公众号/视频号/抖音头条：热爱技术的小牛
-
+  热爱科技，热爱技术，北漂十二年程序员分享科技和技术知识，数码评测，产品体验官，AI领域大模型拾荒者。
+  </br>公众号/视频号/抖音头条：热爱技术的小牛
   I'm **github653224**, likes to be involved in interesting projects.  
   📫 How to reach me: 944851899@qq.com
-
-  ![GitHub contribution card](assets/github_stats.png)
-
-
-
 </div>
 
 <div align="center">
-
   ### 🛠️ Tech Stack
 
   ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
