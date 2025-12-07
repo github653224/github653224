@@ -28,5 +28,4 @@
   ![NGINX](https://img.shields.io/badge/-NGINX-192133?style=flat-square&logo=NGINX&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=Git&logoColor=white)
-
 </div>
