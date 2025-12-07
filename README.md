@@ -21,7 +21,7 @@
   ![Vue.js](https://img.shields.io/badge/-Vue.js-192133?style=flat-square&logo=Vue.js&logoColor=white)
   ![Django](https://img.shields.io/badge/-Django-192133?style=flat-square&logo=Django&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-192133?style=flat-square&logo=Flask&logoColor=white)
-  ![Spring](https://img.shields.io/badge/-Spring-192133?style=flat-square&logo=Spring&logoColor=white)
+  ![Fastapi](https://img.shields.io/badge/-Spring-192133?style=flat-square&logo=Spring&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=MySQL&logoColor=white)
   ![SQLite](https://img.shields.io/badge/-SQLite-192133?style=flat-square&logo=SQLite&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-192133?style=flat-square&logo=Docker&logoColor=white)
